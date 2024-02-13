@@ -1,5 +1,5 @@
 # mismis-fixed
-M-FeD would probably not gave me mismis/boggleshorbie so i just fixed the already leaked version.
+M-FeD would probably not give me boggle, so i fixed the leaked version for funnies.
 
 # Problems
 Crashes alot, randomly
