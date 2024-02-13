@@ -14,3 +14,6 @@ Crashes alot, randomly
 
 # hi mfed
 - why are you watching this..💀
+
+# dont ask me for fixes, please.
+- I'm probably not gonna fix the crashes (idk why it does crash.), plus im in linux so im probably never gonna touch this anyway.
