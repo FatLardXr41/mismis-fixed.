@@ -19,7 +19,7 @@ Crashes alot, randomly
 - I'm probably not gonna fix the crashes (idk why it does crash.), plus im in linux so im probably never gonna touch this anyway.
 
 # Stop asking me for fucking source.
-- I'm not the one who fucking made this cheat. I only picked the old dll and fixed it, as like learning how to reverse engineer.
+- I'm not the one who fucking made this cheat. M-FeD Made it. Not me. I only picked the old dll and fixed it, as like learning how to reverse engineer.
 - So please. Stop asking me for SRC.
 
 # Contacts
